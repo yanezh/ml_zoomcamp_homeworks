@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yanez/courses/ml_zoomcamp_homeworks/week2/mlruns/0/02a09c736191469bbe2982145453353e/artifacts
+end_time: 1653905598735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 02a09c736191469bbe2982145453353e
+run_uuid: 02a09c736191469bbe2982145453353e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653905578477
+status: 3
+tags: []
+user_id: yanez
