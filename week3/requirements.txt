@@ -1,0 +1,4 @@
+pandas
+sklearn
+pyarrow
+prefect==2.0b5
